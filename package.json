@@ -11,9 +11,6 @@
     "permissions",
     "jwt"
   ],
-  "peerDependencies": {
-    "moleculer": "^0.13.4"
-  },
   "devDependencies": {
     "jest": "^24.9.0",
     "moleculer": "^0.13.11"
